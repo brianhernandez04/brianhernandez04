@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @brianhernandez04
 - 👀 I’m interested in Front End Development
-- 🌱 I’m currently learning HTML and CSS.
+- 🌱 I’m currently learning Javascript.
 - 💞️ I’m looking to collaborate on a variety of projects
 - 📫 How to reach me : hernandezbriannnn@gmail.com
 
