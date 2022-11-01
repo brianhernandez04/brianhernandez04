@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @brianhernandez04
-- 👀 I’m interested in Front End Development
-- 🌱 I’m currently learning Javascript.
-- 💞️ I’m looking to collaborate on a variety of projects
+- 👀 I’m interested in Tech and Helping people 
+- 🌱 I’m currently TA'ing
+- 💞️ I’m looking to collaborate, create community, and be a better person overall
 - 📫 How to reach me : hernandezbriannnn@gmail.com
 
 <!---
