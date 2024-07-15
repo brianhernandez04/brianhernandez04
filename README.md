@@ -30,6 +30,9 @@
   
 <h2> 🤳 Connect with me on LinkedIn:</h2>
 
-[<img align="left" alt="JoshMadakor | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+<a href="www.linkedin.com/in/brian-hernandez-8a1666283">
+[<img align="left" alt="Brian Hernandez | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+</a>
 
-[linkedin]: www.linkedin.com/in/brian-hernandez-8a1666283
+
+[linkedin]: <a href="www.linkedin.com/in/brian-hernandez-8a1666283"></a>
