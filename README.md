@@ -30,9 +30,6 @@
   
 <h2> 🤳 Connect with me on LinkedIn:</h2>
 
-<a href="www.linkedin.com/in/brian-hernandez-8a1666283">
 [<img align="left" alt="Brian Hernandez | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-</a>
 
-
-[linkedin]: <a href="www.linkedin.com/in/brian-hernandez-8a1666283"></a>
+[linkedin]: - [Brian Hernandez | LinkedIn](www.linkedin.com/in/brian-hernandez-8a1666283)
