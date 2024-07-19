@@ -27,6 +27,11 @@
   - [In Progress...](https://example.com/)
 - <b>In Progress...</b>
   - [In Progress...](https://example.com/)
+ 
+<h2>🛜 Networking Project:</h2>
+
+- <b>Network Topology Diagram</b>
+  - [Network Diagram](https://github.com/brianhernandez04/Network-Topology-Diagram)
   
 <h2> 🤳 Connect with me on LinkedIn:</h2>
 
