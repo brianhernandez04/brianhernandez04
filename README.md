@@ -13,7 +13,7 @@
   - [Caesar Cipher](https://github.com/brianhernandez04/Cipher-Encryption-Decryption)
 - <b>In Progress...</b>
   - [In Progress...](https://example.com/)
-
+<!---
 <h2>🐧 Linux Projects:</h2>
 
 - <b>In Progress...</b>
@@ -27,7 +27,7 @@
   - [In Progress...](https://example.com/)
 - <b>In Progress...</b>
   - [In Progress...](https://example.com/)
- 
+ -->
 <h2>🛜 Networking Project:</h2>
 
 - <b>Network Topology Diagram</b>
