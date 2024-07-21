@@ -9,10 +9,10 @@
 
 <h2>🐍 Python Projects:</h2>
 
-- <b>Python Cipher Encrypter/Decrypter</b>
+- <b>Cipher Encrypter/Decrypter Program</b>
   - [Caesar Cipher](https://github.com/brianhernandez04/Cipher-Encryption-Decryption)
-- <b>In Progress...</b>
-  - [In Progress...](https://example.com/)
+- <b>Highest Bid Auction Program</b>
+  - [BidMaster](https://github.com/brianhernandez04/Highest-Bid-Auction)
 <!---
 <h2>🐧 Linux Projects:</h2>
 
