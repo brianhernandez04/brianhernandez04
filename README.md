@@ -11,7 +11,7 @@
 
 - <b>Cipher Encrypter/Decrypter Program</b>
   - [Caesar Cipher](https://github.com/brianhernandez04/Cipher-Encryption-Decryption)
-- <b>Highest Bid Auction Program</b>
+- <b>Blind Auction Program</b>
   - [BidMaster](https://github.com/brianhernandez04/Highest-Bid-Auction)
 <!---
 <h2>🐧 Linux Projects:</h2>
