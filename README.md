@@ -7,7 +7,7 @@
 - <b>In Progress...</b>
   - [In Progress...](https://example.com/)
 
-<h2>🐍 Programming Projects:</h2>
+<h2>💻 Programming Projects:</h2>
 
 - <b>Python: Stock Price Estimator Application</b>
   - [Stock Price Estimator](https://github.com/brianhernandez04/StockEstimatorApp)
