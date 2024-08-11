@@ -13,7 +13,7 @@
   - [Stock Price Estimator](https://github.com/brianhernandez04/StockEstimatorApp)
 - <b>Python: Calculator Application</b>
   - [Py Calculator](https://github.com/brianhernandez04/pythoncalculator)
-- <b>javascript: Magic 8 Ball Application</b>
+- <b>Javascript: Magic 8 Ball Application</b>
   - [Magic 8 Ball](https://github.com/brianhernandez04/magic8ball)
 
 <!---
