@@ -9,10 +9,11 @@
 
 <h2>🐍 Python Projects:</h2>
 
-- <b>Python Calculator Application</b>
-  - [Py Calculator](https://github.com/brianhernandez04/pythoncalculator)
 - <b>Python Stock Price Estimator Application</b>
   - [Stock Price Estimator](https://github.com/brianhernandez04/Highest-Bid-Auction)
+- <b>Python Calculator Application</b>
+  - [Py Calculator](https://github.com/brianhernandez04/pythoncalculator)
+
 <!---
 <h2>🐧 Linux Projects:</h2>
 
