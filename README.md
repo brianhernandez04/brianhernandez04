@@ -10,7 +10,7 @@
 <h2>🐍 Python Projects:</h2>
 
 - <b>Python Stock Price Estimator Application</b>
-  - [Stock Price Estimator](https://github.com/brianhernandez04/Highest-Bid-Auction)
+  - [Stock Price Estimator](https://github.com/brianhernandez04/StockEstimatorApp)
 - <b>Python Calculator Application</b>
   - [Py Calculator](https://github.com/brianhernandez04/pythoncalculator)
 
