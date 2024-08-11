@@ -9,7 +9,7 @@
 
 <h2>🐍 Python Projects:</h2>
 
-- <b>Encryption Code Application</b>
+- <b>Code Encryption Application</b>
   - [Code Enrypter](https://github.com/brianhernandez04/Cipher-Encryption-Decryption)
 - <b>Blind Auction Program</b>
   - [BidMaster](https://github.com/brianhernandez04/Highest-Bid-Auction)
