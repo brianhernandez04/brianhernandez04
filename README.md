@@ -7,12 +7,14 @@
 - <b>In Progress...</b>
   - [In Progress...](https://example.com/)
 
-<h2>🐍 Python Projects:</h2>
+<h2>🐍 Programming Projects:</h2>
 
-- <b>Python Stock Price Estimator Application</b>
+- <b>Python: Stock Price Estimator Application</b>
   - [Stock Price Estimator](https://github.com/brianhernandez04/StockEstimatorApp)
-- <b>Python Calculator Application</b>
+- <b>Python: Calculator Application</b>
   - [Py Calculator](https://github.com/brianhernandez04/pythoncalculator)
+- <b>javascript: Magic 8 Ball Application</b>
+  - [Magic 8 Ball](https://github.com/brianhernandez04/magic8ball)
 
 <!---
 <h2>🐧 Linux Projects:</h2>
