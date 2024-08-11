@@ -9,8 +9,8 @@
 
 <h2>🐍 Python Projects:</h2>
 
-- <b>Cipher Encrypter/Decrypter Program</b>
-  - [Caesar Cipher](https://github.com/brianhernandez04/Cipher-Encryption-Decryption)
+- <b>Encryption Code Application</b>
+  - [Code Enrypter](https://github.com/brianhernandez04/Cipher-Encryption-Decryption)
 - <b>Blind Auction Program</b>
   - [BidMaster](https://github.com/brianhernandez04/Highest-Bid-Auction)
 <!---
