@@ -1,11 +1,4 @@
-<h1>Hi, I'm Brian! <br/><a href="">Cloud Computing</a>, <a href="">IT</a>, <a href="https://github.com/brianhernandez04">DevOps</a></h1>
-
-<h2>☁️ Cloud Computing Projects:</h2>
-
-- <b>In Progress...</b>
-  - [In Progress...](https://example.com/)
-- <b>In Progress...</b>
-  - [In Progress...](https://example.com/)
+<h1>Hi, I'm Brian! <br/><a href="https://github.com/brianhernandez04">Technology Professional</a></h1>
 
 <h2>💻 Programming Projects:</h2>
 
