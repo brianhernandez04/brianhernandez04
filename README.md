@@ -1,4 +1,4 @@
-<h1>Hi, I'm Brian! <br/><a href="https://github.com/brianhernandez04">Technology Professional</a></h1>
+<h1>Hi, I'm Brian! <br/><a href="https://github.com/brianhernandez04">Business & Technology Professional</a></h1>
 
 <h2>💻 Programming Projects:</h2>
 
