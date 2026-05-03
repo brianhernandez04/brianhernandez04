@@ -30,7 +30,7 @@
 <h2>🗄️ SQL Projects:</h2>
 
 - <b>SQL Project 1</b>
-  - [Project Title](https://github.com/brianhernandez04/)
+  - [SQL Infrastructure and IAM Audit](https://github.com/brianhernandez04/SQL-Sentinel-Infrastructure-IAM-Audit-System)
 - <b>SQL Project 2</b>
   - [Project Title](https://github.com/brianhernandez04/)
 
