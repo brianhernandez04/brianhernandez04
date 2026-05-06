@@ -32,7 +32,7 @@
 - <b>SQL Project 1</b>
   - [SQL Infrastructure and IAM Audit](https://github.com/brianhernandez04/SQL-Sentinel-Infrastructure-IAM-Audit-System)
 - <b>SQL Project 2</b>
-  - [Project Title](https://github.com/brianhernandez04/)
+  - [SQL Cloud SaaS Cost Optimization](https://github.com/brianhernandez04/SQL-Cloud-SaaS-Cost-Optimization)
 
 <h2>🖥️ Active Directory / PowerShell Projects:</h2>
 
