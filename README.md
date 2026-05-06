@@ -30,13 +30,14 @@
 <h2>🗄️ SQL Projects:</h2>
 
 - <b>SQL Project 1</b>
-  - [SQL Infrastructure and IAM Audit](https://github.com/brianhernandez04/SQL-Sentinel-Infrastructure-IAM-Audit-System)
-- <b>SQL Project 2</b>
   - [SQL Cloud SaaS Cost Optimization](https://github.com/brianhernandez04/SQL-Cloud-SaaS-Cost-Optimization)
+
+- <b>SQL Project 2</b>
+  - [SQL Infrastructure and IAM Audit](https://github.com/brianhernandez04/SQL-Sentinel-Infrastructure-IAM-Audit-System)
 
 <h2>🖥️ Active Directory / PowerShell Projects:</h2>
 
-- <b>Active Directory / PowerShell Project 1</b>
+- <b>Active Directory / PowerShell Project </b>
   - [Project Title](https://github.com/brianhernandez04/)
 
 <h2>🛜 Networking Project:</h2>
