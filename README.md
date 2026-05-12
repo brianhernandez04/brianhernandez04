@@ -15,8 +15,6 @@
   - [Stock Price Estimator](https://github.com/brianhernandez04/StockEstimatorApp)
 - <b>Python: Calculator Application</b>
   - [Py Calculator](https://github.com/brianhernandez04/pythoncalculator)
-- <b>Python Project 3</b>
-  - [Project Title](https://github.com/brianhernandez04/)
 
 <h2>🐧 Linux Projects:</h2>
 
@@ -31,11 +29,10 @@
 
 - <b>SQL Project 1</b>
   - [SQL Cloud SaaS Cost Optimization](https://github.com/brianhernandez04/SQL-Cloud-SaaS-Cost-Optimization)
-
 - <b>SQL Project 2</b>
   - [SQL Infrastructure and IAM Audit](https://github.com/brianhernandez04/SQL-Sentinel-Infrastructure-IAM-Audit-System)
 
-<h2>🖥️ Active Directory / PowerShell Projects:</h2>
+<h2>🖥️ Active Directory / PowerShell Project:</h2>
 
 - <b>Active Directory / PowerShell Project </b>
   - [Project Title](https://github.com/brianhernandez04/)
@@ -44,11 +41,6 @@
 
 - <b>Network Topology Diagram</b>
   - [Network Diagram](https://github.com/brianhernandez04/Network-Topology-Diagram)
-
-<h2>🌐 Other Programming Projects:</h2>
-
-- <b>Javascript: Magic 8 Ball Application</b>
-  - [Magic 8 Ball](https://github.com/brianhernandez04/magic8ball)
 
 <h2>🤳 Connect with me on LinkedIn:</h2>
 
