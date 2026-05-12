@@ -5,7 +5,7 @@
 - <b>AWS Project 1</b>
   - [Deploying Static Website via AWS S3](https://github.com/brianhernandez04/AWS-Deploying-a-Static-Website-via-Amazon-S3/)
 - <b>AWS Project 2</b>
-  - [Project Title](https://github.com/brianhernandez04/)
+  - [Adding Users into Groups via AWS IAM](https://github.com/brianhernandez04/AWS-IAM-Adding-Users-into-Groups)
 
 
 <h2>💻 Python Projects:</h2>
