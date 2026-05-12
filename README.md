@@ -1,13 +1,12 @@
-<h1>Hi, I'm Brian! <br/><a href="https://github.com/brianhernandez04">Business & Technology Professional</a></h1>
+<h1>Hi, I'm Brian! <br/><a href="https://www.linkedin.com/in/brian-hernandez04/">Business & Technology Professional</a></h1>
 
 <h2>☁️ AWS Projects:</h2>
 
 - <b>AWS Project 1</b>
-  - [Project Title](https://github.com/brianhernandez04/)
+  - [Deploying Static Website via AWS S3](https://github.com/brianhernandez04/AWS-Deploying-a-Static-Website-via-Amazon-S3/)
 - <b>AWS Project 2</b>
   - [Project Title](https://github.com/brianhernandez04/)
-- <b>AWS Project 3</b>
-  - [Project Title](https://github.com/brianhernandez04/)
+
 
 <h2>💻 Python Projects:</h2>
 
