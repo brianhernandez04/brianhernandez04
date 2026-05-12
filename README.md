@@ -18,11 +18,8 @@
 <h2>🐧 Linux Projects:</h2>
 
 - <b>Linux Project 1</b>
-  - [Project Title](https://github.com/brianhernandez04/)
-- <b>Linux Project 2</b>
-  - [Project Title](https://github.com/brianhernandez04/)
-- <b>Linux Project 3</b>
-  - [Project Title](https://github.com/brianhernandez04/)
+  - [Project Title](https://github.com/brianhernandez04/Install-Linux-on-Windows-WSL-)
+
  
 <h2>🗄️ SQL Projects:</h2>
 
