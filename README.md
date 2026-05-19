@@ -21,8 +21,6 @@
   - [Linux File System Auditor Script](https://github.com/brianhernandez04/Linux-File-System-Auditor)
 - <b>Linux Project 2</b>
   - [Linux System Health Monitor Script](https://github.com/brianhernandez04/Linux-System-Health-Monitor-)
-- <b>Linux Project 3</b>
-  - [Install Linux on Windows using WSL](https://github.com/brianhernandez04/Install-Linux-on-Windows-WSL-)
  
 <h2>🗄️ SQL Projects:</h2>
 
