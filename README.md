@@ -32,7 +32,7 @@
 <h2>🖥️ Active Directory / PowerShell Project:</h2>
 
 - <b>Active Directory / PowerShell Project </b>
-  - [Project Title](https://github.com/brianhernandez04/)
+  - [Home Lab Running Active Directory DC & PowerShell User Automation](https://github.com/brianhernandez04/Active-Directory-Mass-User-Automation-w-PowerShell)
 
 <h2>🛜 Networking Project:</h2>
 
