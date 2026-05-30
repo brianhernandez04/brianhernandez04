@@ -5,8 +5,7 @@
 - <b>AWS Project 1</b>
   - [Deploying Static Website via AWS S3](https://github.com/brianhernandez04/AWS-Deploying-a-Static-Website-via-Amazon-S3/)
 - <b>AWS Project 2</b>
-  - [Adding Users into Groups via AWS IAM](https://github.com/brianhernandez04/AWS-IAM-Adding-Users-into-Groups)
-
+  - [RBAC on AWS IAM](https://github.com/brianhernandez04/Enterprise-Role-Based-Access-Control-RBAC-on-AWS-IAM)
 
 <h2>💻 Python Projects:</h2>
 
