@@ -3,7 +3,7 @@
 <h2>☁️ AWS Projects:</h2>
 
 - <b>AWS Project 1</b>
-  - [Deploying Static Website via AWS S3](https://github.com/brianhernandez04/AWS-Deploying-a-Static-Website-via-Amazon-S3/)
+  - [Static Web Server on AWS EC2](https://github.com/brianhernandez04/Static-Web-Server-on-AWS-EC2)
 - <b>AWS Project 2</b>
   - [RBAC on AWS IAM](https://github.com/brianhernandez04/Enterprise-Role-Based-Access-Control-RBAC-on-AWS-IAM)
 
