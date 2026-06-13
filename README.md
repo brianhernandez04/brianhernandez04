@@ -3,7 +3,7 @@
 <h2>☁️ AWS Projects:</h2>
 
 - <b>AWS Project 1</b>
-  - [Static Web Server on AWS EC2](https://github.com/brianhernandez04/Static-Web-Server-on-AWS-EC2)
+  - [HA Web App - AWS ALB, ASG, EC2, CloudWatch](https://github.com/brianhernandez04/HA-Web-App-ALB-ASG-CloudWatch)
 - <b>AWS Project 2</b>
   - [RBAC on AWS IAM](https://github.com/brianhernandez04/Enterprise-Role-Based-Access-Control-RBAC-on-AWS-IAM)
 
