@@ -4,8 +4,6 @@
 
 - <b>AWS Project 1</b>
   - [HA Web App - AWS ALB, ASG, EC2, CloudWatch](https://github.com/brianhernandez04/HA-Web-App-ALB-ASG-CloudWatch)
-- <b>AWS Project 2</b>
-  - [RBAC on AWS IAM](https://github.com/brianhernandez04/Enterprise-Role-Based-Access-Control-RBAC-on-AWS-IAM)
 
 <h2>💻 Python Projects:</h2>
 
