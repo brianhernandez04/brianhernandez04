@@ -4,6 +4,8 @@
 
 - <b>AWS Project 1</b>
   - [HA Web App - AWS ALB, ASG, EC2, CloudWatch](https://github.com/brianhernandez04/HA-Web-App-ALB-ASG-CloudWatch)
+- <b>AWS Project 2</b>
+  - [Static Web Server on EC2](https://github.com/brianhernandez04/Static-Web-Server-on-AWS-EC2)
 
 <h2>💻 Python Projects:</h2>
 
